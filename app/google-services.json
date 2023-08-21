@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "134030661789",
+    "project_id": "massmess-3eade",
+    "storage_bucket": "massmess-3eade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134030661789:android:b13c8e3f8cb997ee10dc74",
+        "android_client_info": {
+          "package_name": "com.example.massmess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134030661789-7ludn20gors7mjdifftokmfjn798b9n6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.massmess",
+            "certificate_hash": "e7cd3a1660eaeca5086af05cff980d17160c4612"
+          }
+        },
+        {
+          "client_id": "134030661789-7enntcnk426v2labpdou8ileg164g81d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsnBRWjM6dOzprAvqbGfDiudu5lDuR7pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134030661789-7enntcnk426v2labpdou8ileg164g81d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
